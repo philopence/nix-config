@@ -1,0 +1,7 @@
+patch:
+  "switches/@0/reset": 0
+  "recognizer/patterns/reverse_lookup":
+  "translator/dictionary": extended
+  "punctuator/half_shape/=":
+      "'": {pair: ["「", "」"]}
+      '"': {pair: ["『", "』"]}
